@@ -27,7 +27,7 @@ In our work, we use data folder to store the data.
 │ ├── model(SIDE and GraphCodeBert vector)
 │ │ ├── hard-negatives/141205 (trained model for SIDE)
 │ │
-│ ├── inspection notes(Score records of three volunteers)  
+│ ├── inspection notes(Score records of three volunteers on https://zenodo.org/records/15093887)  
 ```
 
 ## About the Models
