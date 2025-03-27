@@ -4,7 +4,7 @@ This is the source code and dataset to the paper "Context-Aware Smart Contract C
 
 # Approach
 
-![绘图1](C:\Users\86188\Desktop\考博\博士\工作1\画图\绘图1.png)
+![绘图1](https://github.com/shawnwbts/SIRCOT/blob/master/pic1.png)
 
  ## About the Datasets and folder's structure:
 In our work, we use data folder to store the data.
