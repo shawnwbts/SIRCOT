@@ -1,6 +1,6 @@
-# Context-Aware Smart Contract Comment Generation Using Information Retrieval and Scene-Driven Chain-of-Thought
+# Context-Aware Smart Contract Comment Generation Using Information Retrieval and Scenario-Driven Chain-of-Thought
 
-This is the source code and dataset to the paper "Context-Aware Smart Contract Comment Generation Using Information Retrieval and Scene-Driven Chain-of-Thought". Please refer to the paper for the experimental details.
+This is the source code and dataset to the paper "Context-Aware Smart Contract Comment Generation Using Information Retrieval and Scenario-Driven Chain-of-Thought". Please refer to the paper for the experimental details.
 
 # Approach
 
